@@ -1,0 +1,1 @@
+This repo includes notes for Financial Data course in WQU MScFE program https://www.wqu.edu/mscfe. Due to file upload size restriction, the weekly note only contains a small portion of the contents covered each week.
